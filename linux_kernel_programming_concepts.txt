@@ -1,0 +1,5 @@
+
+15-04-2023
+1) The architectural perspective of the Linux kernel consists of: System call interface, Process Management, the Virtual File system, Memory Management, Network Stack, Architecture and the Device Drivers.
+url:- https://linuxhint.com/linux-kernel-tutorial-beginners/
+
